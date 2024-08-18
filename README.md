@@ -1,16 +1,17 @@
-## Hi there 👋
+Boas vindas ao meu perfil 💜
 
 <!--
 **UnseelieQueen316/UnseelieQueen316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Rebeca Gomes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🖱️ Estou estudando na [Alura] (https://www.alura.com.br/)
+- 📑 Estou me desenvolvendo na linguagem JavaScript
+- 🤔 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+- 📫 Você pode entrar em contato comigo
+
+00001132157043@sp.al.educacao.sp.gov.br
+
+![Gif Buzzfeed](https://www.buzzfeed.com/kaileyhansen/these-13-tv-shows-lasted-about-6-seasons-too-long)
+
 -->
